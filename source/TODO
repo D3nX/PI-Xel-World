@@ -1,0 +1,10 @@
+- Add a "money" (not coin) -> Ice Balls added !
+- Make the player eat Ice Balls (eventually) -> Done !
+- Add some monsters -> Done !
+- Add tutorial phase -> Done !
+- Make a menu -> Done ! (Can be better though)
+- Remake the game over room -> Done ! (Can be better though)
+    -> Add score ! -> Done !
+- Death animation
+- Add stars to night phase -> Done !
+- Add state transition -> Done !
